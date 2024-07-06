@@ -8,7 +8,7 @@ To install dependencies and run the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your_username/ReactNativeAiAssistant.git
+    git clone https://github.com/vladmelnykk/ReactNativeAiAssistant.git
     cd ReactNativeAiAssistant
     ```
 
